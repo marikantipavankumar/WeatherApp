@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './index.css'; // Make sure to import your CSS file
+import './index.css'; 
 
 const App = () => {
   const [city, setCity] = useState('');
